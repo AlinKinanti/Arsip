@@ -71,7 +71,6 @@ switch (ENVIRONMENT)
 		error_reporting(-1);
 		ini_set('display_errors', 1);
 	break;
->>>>>>> Fachrur:index.php
 
 	case 'testing':
 	case 'production':
