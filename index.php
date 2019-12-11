@@ -1,5 +1,3 @@
-<<<<<<< HEAD:Bukanindex.php
-=======
 <?php
 /**
 Ini tambahana demo ya pokonya ini di edit
